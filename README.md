@@ -1,1 +1,1 @@
-# travel-planning-backend
+# travel-planning-backend-frontend
